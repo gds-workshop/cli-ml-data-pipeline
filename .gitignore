@@ -1,0 +1,11 @@
+# Environment & System files
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Data and Artifacts (Never commit raw datasets or trained weights)
+data/raw/*
+data/processed/*
+*.pkl
+*.joblib
