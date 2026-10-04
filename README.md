@@ -50,8 +50,8 @@ The data comes from the [UCI Bike Sharing Dataset](https://archive.ics.uci.edu/d
 ### Installation
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/gds-workshop/cli-ml-data-pipeline.git
+cd cli-ml-data-pipeline
 
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
